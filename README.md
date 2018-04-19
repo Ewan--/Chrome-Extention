@@ -1,6 +1,6 @@
 # Chrome-Extention
 
-Result of some serious boredom
+**This should not be used as a respesentation of my coding style, this was fast and for fun!**
 
 Chrome extention that makes opening a new tab a little more fun and make you look like the leet haxxor you really are:
 
